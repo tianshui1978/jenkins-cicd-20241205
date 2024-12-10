@@ -12,3 +12,6 @@ def test_add2():
 
 def test_add3():
     assert add(-1, -1) == -2
+
+def test_add4():
+    assert add(-3, -1) == -4
